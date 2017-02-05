@@ -8,6 +8,7 @@ public class Se_02_2chashu {
     public static void main(String[] arg){
         TreeNode treeNode;
         //treeNode = new TreeNode(7);
+        System.out.print("Hello ");
     }
     void itera(TreeNode root){
         if (root==null)return;
